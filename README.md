@@ -98,7 +98,7 @@ Wine-Quality-Prediction/
 
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/your-username/Wine-Quality-Prediction.git
+git clone https://github.com/mariyam06-star/Wine-Quality-Prediction.git
 Navigate to the project folder
 cd Wine-Quality-Prediction
 Install required libraries
