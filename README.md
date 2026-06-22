@@ -88,17 +88,9 @@ Successfully predicted wine quality using multiple machine learning classifiers.
 Compared model performances based on evaluation metrics.
 Identified the most effective model for wine quality classification.
 
-📁 Project Structure
-Wine-Quality-Prediction/
-│
-├── Wine_Quality_Prediction.ipynb
-├── dataset.csv
-├── README.md
-└── requirements.txt
-
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/mariyam06-star/Wine-Quality-Prediction.git
+git clone https://github.com/mariyam06-star/OIBSIP_DataAnalystic_level2_project2.git
 Navigate to the project folder
 cd Wine-Quality-Prediction
 Install required libraries
